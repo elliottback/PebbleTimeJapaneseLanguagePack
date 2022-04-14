@@ -81,57 +81,47 @@ Note: This is a language pack for Pebble Time only. Since the RAM of MUJI Pebble
 ## Version 5
 
 * 幾つ漏れていた漢字を追加、現在対応字数10,375
+  A few missing kanji characters have been added, now supporting 10,375 characters.
 * Regular、boldの14ptフォントのウェイトを変更、通知リストの小さい文字がもっと見やすくなった
-
-
-* A few missing kanji characters have been added, now supporting 10,375 characters.
-* Changed 14pt font weights for regular and bold, smaller characters in the notification list are now more legible.
+  Changed 14pt font weights for regular and bold, smaller characters in the notification list are now more legible.
 
 ## Version 4
 
 * 幾つ漏れていた漢字を追加、現在対応字数10,342
+  A few omitted kanji characters added, now 10,342 characters supported.
 * Regular、Lightの使用フォントを変更。
+  Changed fonts used for Regular and Light.
 * RegularはYao Weiさんが手を加えたスクリプトでGoogle Noto Sans CJK Thinをベースに作成。よりスムーズなフォント表示を実現
-
-
-* A few omitted kanji characters added, now 10,342 characters supported.
-* Changed fonts used for Regular and Light.
-* Regular is based on Google Noto Sans CJK Thin with a script modified by Yao Wei. Smoother font display.
+  Regular is based on Google Noto Sans CJK Thin with a script modified by Yao Wei. Smoother font display.
 
 ## Version 3
 
 * 幾つ漏れていた漢字を追加、現在対応字数10,265
+  A few missing kanji characters have been added, now supporting 10,265 characters.
 * Bold、Regular、Light3つのフォントウェイトのパックを提供
-
-
-* A few missing kanji characters have been added, now supporting 10,265 characters.
-* Packs of three font weights - Bold, Regular and Light.
+  Packs of three font weights - Bold, Regular and Light.
 
 ## Version 2
 
 * 文字を最適なサイズに調整（1行7文字）
+  Text adjusted to optimum size (7 characters per line).
 * 14pt,28ptフォントの対応漢字数を他のサイズのフォントと同様10,250字に増加
+  Number of kanji characters supported in 14pt and 28pt fonts increased to 10,250, the same as other font sizes.
 * RegularとLight2つのフォントウェイトのパックを提供
+  Packs of two font weights, Regular and Light.
 * パック容量の削減
-
-
-* Text adjusted to optimum size (7 characters per line).
-* Number of kanji characters supported in 14pt and 28pt fonts increased to 10,250, the same as other font sizes.
-* Packs of two font weights, Regular and Light.
-* Reduced pack capacity
+  Reduced pack capacity
 
 ## Version 1
 
 * 操作メニューの言語が英語のまま
+  The language of the operating menu remains English.
 * 通知やアプリでの文字表示が日本語、中国語簡体字、中国語繁体字に対応
+  Text display in notifications and applications supports Japanese, Simplified Chinese and Traditional Chinese.
 * 14ptフォントは漢字3,000字、18pt,24ptフォントは漢字10,250字、28ptフォントは漢字4,000字に表示対応
+  14pt font supports displaying 3,000 Kanji characters, 18pt and 24pt fonts support displaying 10,250 Kanji characters and 28pt fonts support displaying 4,000 Kanji characters.
 * 通常フォントはGoogle Noto Sans CJK Demilight、BoldフォントはGoogle Noto Sans CJK Regularを使用
-
-
-* The language of the operating menu remains English.
-* Text display in notifications and applications supports Japanese, Simplified Chinese and Traditional Chinese.
-* 14pt font supports displaying 3,000 Kanji characters, 18pt and 24pt fonts support displaying 10,250 Kanji characters and 28pt fonts support displaying 4,000 Kanji characters.
-* Google Noto Sans CJK Demilight for Normal font and Google Noto Sans CJK Regular for Bold font.
+  Google Noto Sans CJK Demilight for Normal font and Google Noto Sans CJK Regular for Bold font.
 
 # Reference
 
