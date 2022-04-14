@@ -21,7 +21,7 @@
 ## Usage
 
 1. 言語パックをDLしdropboxなどクラウドサービスにアップロードする
-2. 最新のPebble Timeアプリでパックを開く（Androidのみ）
+2. 最新のPebble Timeアプリでパックを開く（Androidのみ） -- このためには[Rebble Helper](https://play.google.com/store/apps/developer?id=Rebble+Alliance,+LLC)をインストールする必要があります。
 3. 開いたらインストールが自動で開始される
 4. プログレスバーが100%になったら言語パック適用完了
 5. iOSのアプリはインストールできないので、注意してください。
@@ -45,14 +45,18 @@ Note: This is a language pack for Pebble Time only. Since the RAM of MUJI Pebble
 ## Usage
 
 1. download the language pack and upload it to a cloud service such as dropbox
-2. open the pack in the latest Pebble Time app (Android only).
+2. open the pack in the latest Pebble Time app (Android only) -- you need to install the [Rebble Helper](https://play.google.com/store/apps/details?id=io.rebble.charon) for this
 3. installation starts automatically once opened
 4. when the progress bar reaches 100%, the language pack has been applied
 5. note that iOS apps cannot be installed.
 
 # Download
 
-![screenshot](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/ss.png)
+![screenshot](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/ss.png?raw=1)
+
+Here is a live sample taken 4/14/2022:
+
+![updated screenshot](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pebble_sample_2022?raw=1)
 
 ## Version 5 (Latest & Final)
 * [pblp_zhs_zht_ja_v5_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/raw/main/pblp_zhs_zht_ja_v5_light.pbl)
