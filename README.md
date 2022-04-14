@@ -56,7 +56,7 @@ Note: This is a language pack for Pebble Time only. Since the RAM of MUJI Pebble
 
 Here is a live sample taken 4/14/2022:
 
-![updated screenshot](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pebble_sample_2022?raw=1)
+![updated screenshot](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pebble_sample_2022.jpg?raw=1)
 
 ## Version 5 (Latest & Final)
 * [pblp_zhs_zht_ja_v5_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/raw/main/pblp_zhs_zht_ja_v5_light.pbl)
