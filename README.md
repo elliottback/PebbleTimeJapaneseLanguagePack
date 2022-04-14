@@ -1,12 +1,12 @@
-![Slice-1-6](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/Slice-1-6.png?raw=1)
-
 # 日本語
 
-## 原作者 / Original Author
+## 原作者
 
 [この言語パックは元々Kuro](https://www.instagram.com/kurop/)によって作成されましたが、pebbleユーザーのためにここで再ホストすることを快く承諾してくれました。
 
 ## Pebble Time 日本語・中国語言語パック
+
+![Slice-1-6](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/Slice-1-6.png?raw=1)
 
 現在Pebble Timeの3.0 firmwareは英語のみでCJKに対応していない。無印のPebbleは[中国語対応](https://web.archive.org/web/20161201050317/https://blog.getpebble.com/2015/03/17/chn-localized/)の公式beta firewareが存在するようだが、なぜかTimeのほうは対応していない。日本語の公式対応は近いうちにも予定がなさそう。（日本人のPebblerがまだまだ少ないからかな？）
 
