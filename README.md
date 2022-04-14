@@ -55,23 +55,23 @@ Note: This is a language pack for Pebble Time only. Since the RAM of MUJI Pebble
 ![screenshot](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/ss.png)
 
 ## Version 5 (Latest & Final)
-* [pblp_zhs_zht_ja_v5_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v5_light_font_weight.pbl)
-* [pblp_zhs_zht_ja_v5_regular_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v5_regular_font_weight.pbl)
-* [pblp_zhs_zht_ja_v5_bold_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v5_bold_font_weight.pbl)
+* [pblp_zhs_zht_ja_v5_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v5_light.pbl)
+* [pblp_zhs_zht_ja_v5_regular_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v5_regular.pbl)
+* [pblp_zhs_zht_ja_v5_bold_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v5_bold.pbl)
 
 ## Version 4
-* [pblp_zhs_zht_ja_v4_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v4_light_font_weight.pbl)
-* [pblp_zhs_zht_ja_v4_regular_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v4_regular_font_weight.pbl)
-* [pblp_zhs_zht_ja_v4_bold_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v4_bold_font_weight.pbl)
+* [pblp_zhs_zht_ja_v4_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v4_light.pbl)
+* [pblp_zhs_zht_ja_v4_regular_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v4_regular.pbl)
+* [pblp_zhs_zht_ja_v4_bold_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v4_bold.pbl)
 
 ## Version 3
-* [pblp_zhs_zht_ja_v3_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v3_light_font_weight.pbl)
-* [pblp_zhs_zht_ja_v3_regular_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v3_regular_font_weight.pbl)
-* [pblp_zhs_zht_ja_v3_bold_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v3_bold_font_weight.pbl)
+* [pblp_zhs_zht_ja_v3_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v3_light.pbl)
+* [pblp_zhs_zht_ja_v3_regular_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v3_regular.pbl)
+* [pblp_zhs_zht_ja_v3_bold_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v3_bold.pbl)
 
 ## Version 2
-* [pblp_zhs_zht_ja_v2_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v2_light_font_weight.pbl)
-* [pblp_zhs_zht_ja_v2_regular_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v2_regular_font_weight.pbl)
+* [pblp_zhs_zht_ja_v2_light_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v2_light.pbl)
+* [pblp_zhs_zht_ja_v2_regular_font_weight.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v2_regular.pbl)
 
 ## Version 1
 * [pblp_zhs_zht_ja_v1.pbl](https://github.com/elliottback/PebbleTimeJapaneseLanguagePack/blob/main/pblp_zhs_zht_ja_v1.pbl)
