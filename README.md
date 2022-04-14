@@ -121,6 +121,7 @@ Note: This is a language pack for Pebble Time only. Since the RAM of MUJI Pebble
 * 14ptフォントは漢字3,000字、18pt,24ptフォントは漢字10,250字、28ptフォントは漢字4,000字に表示対応
   14pt font supports displaying 3,000 Kanji characters, 18pt and 24pt fonts support displaying 10,250 Kanji characters and 28pt fonts support displaying 4,000 Kanji characters.
 * 通常フォントはGoogle Noto Sans CJK Demilight、BoldフォントはGoogle Noto Sans CJK Regularを使用
+
   Google Noto Sans CJK Demilight for Normal font and Google Noto Sans CJK Regular for Bold font.
 
 # Reference
